@@ -23,11 +23,13 @@
 
 ### 📊 GitHub & Coding Stats
 
+### 📊 GitHub & Coding Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-aditya4311&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-aditya4311&theme=tokyonight&hide_border=true" alt="Aditya's Streak" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mr-aditya4311&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-aditya4311&theme=tokyonight&hide_border=true" alt="Streak Stats" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-aditya4311&layout=compact&theme=tokyonight&hide_border=true" alt="Aditya's Top Languages" height="140"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mr-aditya4311&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="140"/>
 </p>
