@@ -23,10 +23,9 @@
 
 ### 📊 GitHub Activity & Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-aditya4311&theme=tokyonight&hide_border=true" alt="Streak" height="160"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-aditya4311&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-aditya4311&theme=tokyonight&hide_border=true" alt="Streak Stats" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-aditya4311&theme=tokyonight" alt="GitHub Profile Details" height="160"/>
 </p>
+
