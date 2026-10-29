@@ -5,7 +5,7 @@
 - 🔭 Currently working on web and mobile application development
 - 💻 Practicing DSA in C++ & Python (LeetCode / GFG)
 - 🌐 Open to collaborating on innovative tech projects
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/aditya-verma-8a7032382/) | [Portfolio](https://your-portfolio.com)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/aditya-verma4311/) | [Portfolio](https://your-portfolio.com)
 
 ---
 
