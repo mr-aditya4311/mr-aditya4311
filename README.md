@@ -21,15 +21,12 @@
 
 ---
 
-### 📊 GitHub & Coding Stats
-
-### 📊 GitHub & Coding Stats
+### 📊 GitHub Activity & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mr-aditya4311&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-aditya4311&theme=tokyonight&hide_border=true" alt="Streak Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-aditya4311&theme=tokyonight&hide_border=true" alt="Streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mr-aditya4311&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="140"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-aditya4311&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
